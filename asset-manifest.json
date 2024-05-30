@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/e-commerce/static/css/main.7fb2ab6a.css",
+    "main.js": "/e-commerce/static/js/main.5e5b4ae5.js",
+    "static/js/453.4297e0f3.chunk.js": "/e-commerce/static/js/453.4297e0f3.chunk.js",
+    "static/media/fa-solid-900.ttf": "/e-commerce/static/media/fa-solid-900.45a265d0f07b31cde85f.ttf",
+    "static/media/4d53d5b2-2002-4e50-8920-8ecafc39f74f.gif": "/e-commerce/static/media/4d53d5b2-2002-4e50-8920-8ecafc39f74f.e21bebb87de55e69fec3.gif",
+    "static/media/fa-brands-400.ttf": "/e-commerce/static/media/fa-brands-400.6205fd00fb1b573e9f0f.ttf",
+    "static/media/fa-solid-900.woff2": "/e-commerce/static/media/fa-solid-900.fb8184add5a3101ad0a3.woff2",
+    "static/media/fa-brands-400.woff2": "/e-commerce/static/media/fa-brands-400.8d3cabfc66809162fb4d.woff2",
+    "static/media/error.svg": "/e-commerce/static/media/error.084f5f5b0eb10d3216cb7c939108e1f6.svg",
+    "static/media/fa-regular-400.ttf": "/e-commerce/static/media/fa-regular-400.adc51aab4d771ab65f81.ttf",
+    "static/media/1f5f22c5-3dd0-437f-b6e5-1cee1e20a60c.avif": "/e-commerce/static/media/1f5f22c5-3dd0-437f-b6e5-1cee1e20a60c.61d39db1e1dd4d3ed0ac.avif",
+    "static/media/9a059e0a-f4ef-47d2-9f82-b2469042566e.avif": "/e-commerce/static/media/9a059e0a-f4ef-47d2-9f82-b2469042566e.70c9061c60beea6f1030.avif",
+    "static/media/61d2a081-c7db-4919-95f8-06fed0841dd1.avif": "/e-commerce/static/media/61d2a081-c7db-4919-95f8-06fed0841dd1.2c49ff6b3be9e51b8c7a.avif",
+    "static/media/fa-regular-400.woff2": "/e-commerce/static/media/fa-regular-400.e931bc0d14f5bbb1da22.woff2",
+    "static/media/2dfab776-fb88-4403-98b0-b31bbaff96ec.avif": "/e-commerce/static/media/2dfab776-fb88-4403-98b0-b31bbaff96ec.1e79416ecdad540e0856.avif",
+    "static/media/32cadf17-d223-4e81-b710-59c4f1d12179.avif": "/e-commerce/static/media/32cadf17-d223-4e81-b710-59c4f1d12179.e85105ceb51718423dd6.avif",
+    "static/media/fa-v4compatibility.ttf": "/e-commerce/static/media/fa-v4compatibility.2eb7b3ef25042305f3ff.ttf",
+    "static/media/freshcart-logo.svg": "/e-commerce/static/media/freshcart-logo.53f7a424c3aedc30a0fb46dc2278137c.svg",
+    "static/media/fa-v4compatibility.woff2": "/e-commerce/static/media/fa-v4compatibility.b3049b13a93f07e026fc.woff2",
+    "static/media/slick.svg": "/e-commerce/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/e-commerce/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/e-commerce/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/e-commerce/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/e-commerce/index.html",
+    "main.7fb2ab6a.css.map": "/e-commerce/static/css/main.7fb2ab6a.css.map",
+    "main.5e5b4ae5.js.map": "/e-commerce/static/js/main.5e5b4ae5.js.map",
+    "453.4297e0f3.chunk.js.map": "/e-commerce/static/js/453.4297e0f3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7fb2ab6a.css",
+    "static/js/main.5e5b4ae5.js"
+  ]
+}
